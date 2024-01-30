@@ -1,0 +1,4 @@
+repository "SFT@Enthugames@cloud"
+  path "/"
+    br "/main"
+    co "/main"
